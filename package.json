@@ -1,0 +1,21 @@
+{
+  "name": "whymath",
+  "version": "1.0.0",
+  "description": "Intent Based Mathematical API for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "math",
+    "business-logic",
+    "intent",
+    "calculation"
+  ],
+  "author": "Albert Septian Gulo",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^10.1.0",
+    "jest": "^30.2.0"
+  }
+}
